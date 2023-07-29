@@ -1,0 +1,34 @@
+body{
+    background-color: yellowgreen;
+}
+
+
+.header_div{
+    background-color: orange;
+    font-family: comic;
+}
+.header_div p{
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button{
+    background-color: black;
+    color: white;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copywrite{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+background-color: purple;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px orange;}
